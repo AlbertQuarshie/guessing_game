@@ -18,4 +18,10 @@ def choose_difficulty():
     else:
         print("Invalid choice. Select 1, 2 or 3")
 
-        
+def play_game():
+    print("\nWelcome to the guessing game!")
+
+    attempts=choose_difficulty()
+    secret_number=random.randint(1,100)
+
+print("\nI have a number between 1 and 100")
