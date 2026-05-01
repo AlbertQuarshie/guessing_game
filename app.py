@@ -11,9 +11,9 @@ def choose_difficulty():
         if choice == '1':
             return 10
         elif choice == '2':
-            return 5
+            return 7
         elif choice == '3':
-            return 3
+            return 5
         else:
             print("Invalid choice. Select 1, 2 or 3")
 
