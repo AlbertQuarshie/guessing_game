@@ -2,9 +2,9 @@ import random
 
 def choose_difficulty():
     print("Select Difficulty Level: ")
-    print("1: Easy")
-    print("2: Moderate")
-    print("3: Hard")
+    print("1: Easy : 10 tries")
+    print("2: Moderate : 7 tries")
+    print("3: Hard : 5 tries")
 
     while True:
         choice = input("Select Choice (1,2,3):")
