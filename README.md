@@ -1,4 +1,4 @@
-### Guessing Game
+# Guessing Game
 
 ## A. Contributor
 
@@ -36,9 +36,9 @@ python guessing_game.py
    Run the Python file.
    You’ll be prompted to select a difficulty level:
 
-- 1: Easy → 10 tries
-- 2: Moderate → 7 tries
-- 3: Hard → 5 tries
+ 1: Easy → 10 tries
+ 2: Moderate → 7 tries
+ 3: Hard → 5 tries
 
 2. Guess the Number
    - Input guesses between 1 and 100.
