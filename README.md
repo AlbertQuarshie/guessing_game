@@ -18,7 +18,7 @@
 1. Clone the Repository
 
 ```bash
-git clone [github.com](https://github.com/AlbertQuarshie/guessing_game.git)
+git clone https://github.com/AlbertQuarshie/guessing_game.git
 cd guessing_game
 ```
 
